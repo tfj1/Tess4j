@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="win32-x86-64">
+    <CLASSES />
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/lib/win32-x86-64" />
+    </NATIVE>
+    <SOURCES />
+  </library>
+</component>

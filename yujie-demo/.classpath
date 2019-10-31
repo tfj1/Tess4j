@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/ghost4j-0.5.1.jar"/>
+	<classpathentry kind="lib" path="lib/jai_imageio.jar"/>
+	<classpathentry kind="lib" path="lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="lib/tess4j.jar"/>
+	<classpathentry kind="lib" path="E:/test/yujie-demo/lib/win32-x86-64/gsdll64.dll"/>
+	<classpathentry kind="lib" path="E:/test/yujie-demo/lib/win32-x86-64/liblept168.dll"/>
+	<classpathentry kind="lib" path="E:/test/yujie-demo/lib/win32-x86-64/libtesseract302.dll"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
